@@ -1,8 +1,8 @@
 {
-  "site_name": "Starter",
-  "title": "Eleventy Starter Boilerplate",
-  "description": "Starter code for your 11ty blog Boilerplate",
-  "url": "https://example.com",
-  "locale": "en",
-  "author": "Anonymous"
+  "site_name": "Association Autonomie Numérique",
+  "title": "Association Autonomie Numérique",
+  "description": "L’association Autonomie Numérique cherche à défendre l’indépendance numérique individuelle et collective, à communiquer et s'investir sur les questions d'accessibilité, d’inclusion et de prévention, à soutenir l’éducation transversale des compétences numériques et à promouvoir une culture numérique de qualité.",
+  "url": "https://www.autonomie-numerique.org",
+  "locale": "fr",
+  "author": "Comité de l'Association Autonomie Numérique"
 }
