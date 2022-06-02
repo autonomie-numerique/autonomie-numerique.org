@@ -1,5 +1,6 @@
 ---
 title: 'Association Autonomie Numérique'
+layout: "layouts/post.ejs"
 ---
 
 ![Personne travaillant sur un ordinateur dans un parc.](/assets/images/hero.jpg)
