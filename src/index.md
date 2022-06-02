@@ -25,7 +25,7 @@ Cette inégalité participe de la fracture numérique et constitue un obstacle p
 
 ## Objectifs
 
--> **À court terme**, le but de l’association est de répondre à l’urgence de la crise ukrainienne en récupérant des tablettes et des ordinateurs portables afin de soutenir l’éducation des familles ukrainiennes réfugiées à Genève. 
+**➔ À court terme**, le but de l’association est de répondre à l’urgence de la crise ukrainienne en récupérant des tablettes et des ordinateurs portables afin de soutenir l’éducation des familles ukrainiennes réfugiées à Genève. 
 
 En effet, le ministère de l’éducation ukrainien a mis en place depuis le covid une structure d’enseignement en ligne qui permet depuis le début de la guerre aux enfants de poursuivre leur scolarité, où qu’ils se trouvent. Cette plateforme d’enseignement permet également aux enfants scolarisés dans leur pays d'accueil de poursuivre un enseignement de la langue ukrainienne. 
 
@@ -35,11 +35,11 @@ Donner aux familles ukrainiennes arrivant à Genève un ordinateur portable/une 
 * de donner un moyen de rester en contact avec leurs proche en Ukraine ou ailleurs
 * de soutenir l’autonomie et l’intégration de ces familles. 
 
--> **À moyen terme**, le but de l’association est de construire une structure pérenne afin de pouvoir soutenir l’autonomie numérique des jeunes à Genève en mettant à disposition du matériel individuel de qualité (ordinateurs portables / tablettes) à des jeunes qui en ont besoin. 
+**➔ À moyen terme**, le but de l’association est de construire une structure pérenne afin de pouvoir soutenir l’autonomie numérique des jeunes à Genève en mettant à disposition du matériel individuel de qualité (ordinateurs portables / tablettes) à des jeunes qui en ont besoin. 
 L’association cherche donc à récupérer du matériel, à le faire reconditionner et à le proposer à des associations directement en lien avec des jeunes qui pourraient en avoir besoin. 
 La démarche de l’association s’inscrit donc dans un projet solidaire et durable. 
 
--> **À long terme**, l’association a comme ambition de participer au débat public sur les enjeux du numérique. Elle cherche ainsi à promouvoir une culture numérique de qualité, à communiquer et s'investir sur les questions d'accessibilité, d’inclusion et de prévention, à soutenir l’éducation transversale des compétences numériques et défendre l’indépendance numérique individuelle et collective. Pour ce faire, elle réfléchit à organiser des ateliers à destination des adolescents et des enfants, des conférences sur des questions vives concernant le numérique ou encore de la communication pour améliorer l'accessibilité des ressources en ligne. 
+**➔ À long terme**, l’association a comme ambition de participer au débat public sur les enjeux du numérique. Elle cherche ainsi à promouvoir une culture numérique de qualité, à communiquer et s'investir sur les questions d'accessibilité, d’inclusion et de prévention, à soutenir l’éducation transversale des compétences numériques et défendre l’indépendance numérique individuelle et collective. Pour ce faire, elle réfléchit à organiser des ateliers à destination des adolescents et des enfants, des conférences sur des questions vives concernant le numérique ou encore de la communication pour améliorer l'accessibilité des ressources en ligne. 
 
 ## Réalisation
 
